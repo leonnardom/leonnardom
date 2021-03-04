@@ -1,5 +1,3 @@
-<h1 align=center>zSpl1nterUS_</h1>
-
 <p align="center">
     <img src="https://img.shields.io/github/followers/zSpl1nterUS?label=Follow&style=social" alt="github followers" /><br>
     <br>
@@ -12,8 +10,6 @@
 Discord: zSpl1nterUS_#6455
 
 <br>
-
-**Languages and Technologies**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
