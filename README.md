@@ -5,8 +5,10 @@
 <p align="center">
     <img src="https://img.shields.io/github/followers/zSpl1nterUS?label=Follow&style=social" alt="github followers" /><br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=zSpl1nterUS&show_icons=true&custom_title=zSpl1nterUS_%20Github%20Stats&theme=midnight-purple" alt="Lennart Statistics." />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSpl1nterUS&layout=compact&theme=midnight-purple" alt="Lennart Statistics." />
+![profile] ![languages]
+
+[profile]: https://github-readme-stats.vercel.app/api?username=zSpl1nterUS&show_icons=true&theme=dark
+[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=zSpl1nterUS&theme=dark
 
 </p>
 <hr>
