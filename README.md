@@ -5,11 +5,9 @@
 <p align="center">
     <img src="https://img.shields.io/github/followers/zSpl1nterUS?label=Follow&style=social" alt="github followers" /><br>
     <br>
-![profile] ![languages]
-
-[profile]: https://github-readme-stats.vercel.app/api?username=zSpl1nterUS&show_icons=true&theme=dark
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=zSpl1nterUS&theme=dark
-
+    <img src="https://github-readme-stats.vercel.app/api?username=zSpl1nterUS&show_icons=true&theme=dark" alt="Leonnardo" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSpl1nterUS&theme=dark" alt="Leonnardo" /><br>
+   
 </p>
 <hr>
 
