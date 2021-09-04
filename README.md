@@ -26,9 +26,3 @@ Discord: zSpl1nterUS_#6455
 ![TS](https://img.shields.io/badge/-ts-000000?style=for-the-badge&logo=typescript&logoColor=00acd7)
 
 <hr>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/zSpl1nterUS/count.svg" />
-</p>
-
