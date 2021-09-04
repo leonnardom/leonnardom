@@ -25,3 +25,10 @@ Discord: zSpl1nterUS_#6455
 ![Pug](https://img.shields.io/badge/-Pug-000000?style=for-the-badge&logo=pug&logoColor=f74b00)
 ![TS](https://img.shields.io/badge/-ts-000000?style=for-the-badge&logo=typescript&logoColor=00acd7)
 
+<hr>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/zSpl1nterUS/count.svg" />
+</p>
+
