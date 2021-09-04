@@ -26,3 +26,4 @@ Discord: zSpl1nterUS_#6455
 ![TS](https://img.shields.io/badge/-ts-000000?style=for-the-badge&logo=typescript&logoColor=00acd7)
 
 <hr>
+![Snake animation](https://github.com/zSpl1nterUS/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg)
