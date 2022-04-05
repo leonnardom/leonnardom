@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=My+Profile)](https://git.io/typing-svg)
 
-<br>
-
 <p align="center">
     <br>
     <img src="https://discord.c99.nl/widget/theme-4/600804786492932101.png" />
