@@ -1,9 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=My+Profile)](https://git.io/typing-svg)
 
+<hr>
+
 <p align="center">
     <br>
     <img src="https://discord.c99.nl/widget/theme-4/600804786492932101.png" />
 </p>
+<hr>
 
 <p align='center'>
     <img src="https://img.shields.io/github/followers/zSpl1nterUS?label=Follow&style=social" alt="github followers" /><br>
