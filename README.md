@@ -8,10 +8,6 @@
 </p>
 <hr>
 
-<p align='center'>
-    <img src="https://img.shields.io/github/followers/zSpl1nterUS?label=Follow&style=social" alt="github followers" /><br>
-    <br>
-
 </p>
 <div align="center">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zSpl1nterUS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true,contribs&bg_color=00000000" />
