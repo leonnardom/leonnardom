@@ -11,7 +11,10 @@
       <br>
     
     <a href="https://github.com/zSpl1nterUS?tab=repositories" target="_blank">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zSpl1nterUS&theme=dark&hide_border=true&layout=compact&langs_count=5" alt="Github Languages" />
+
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zSpl1nterUS&theme=midnight-purple&hide_border=true&background=FFFFFF00">
+
+
 </a>
 </div>
 
