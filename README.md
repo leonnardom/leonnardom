@@ -2,8 +2,9 @@
 
 <p align="center">
     <br>
-    <img src="https://discord.c99.nl/widget/theme-4/600804786492932101.png" />
-<hr>
+  <a href="https://discord.com/users/600804786492932101" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/600804786492932101?bg=151515&borderRadius=5px" alt="Discord Status"/>
+    </a>
 
 <div align="center">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zSpl1nterUS&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
