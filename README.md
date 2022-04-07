@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=My+Profile)](https://git.io/typing-svg)
 
 <p align="center">
@@ -7,7 +8,7 @@
 
 <div align="center">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zSpl1nterUS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true,contribs&bg_color=00000000" />
-        <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zSpl1nterUS&theme=dark&hide_border=true&layout=compact&langs_count=5" alt="Github Languages" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSpl1nterUS&layout=compact&langs_count=7&theme=midnight-purple,contribs&bg_color=00000000" />
       <br>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=zSpl1nterUS&theme=midnight-purple&hide_border=true&background=FFFFFF00">
 </div>
