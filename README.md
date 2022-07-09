@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=zSpl1nterUS&color=light_green" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=zSpl1nterUS&color=green" alt="Profile views" />
     <img src="https://badges.pufler.dev/repos/zSpl1nterUS" />
 </div>
 
